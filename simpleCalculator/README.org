@@ -1,0 +1,20 @@
+#+TITLE: Simple Calculator
+#+AUTHOR: Jibran Anjum Chughtai
+
+* Simple Calculator
+This is a simple terminal with the basic function of four
+    \bull Summission
+    \bull Subtraction
+    \bull Division
+    \bull Multiplication
+
+It is not gui based it is just a terminal based Calculator.
+
+** Requirements
+\bull python
+** How to use
+Open it in any IDE and run the program and it'll execute the calculate inside a terminal or better run it inside your terminal. By simply typing the command:
+#+begin_src
+python calc.py
+#+end_src
+
